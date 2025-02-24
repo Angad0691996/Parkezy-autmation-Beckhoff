@@ -1,0 +1,3 @@
+Global_Variables.Acknowledgement_signal
+Global_Variables.Token_No
+Global_Variables.Request_Type

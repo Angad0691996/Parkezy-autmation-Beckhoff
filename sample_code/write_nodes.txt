@@ -1,0 +1,9 @@
+[
+    {"name": "Global_Variables.Auto_Mode", "type": "PLCTYPE_BOOL"},
+    {"name": "Global_Variables.SemiAuto_Mode", "type": "PLCTYPE_BOOL"},
+    {"name": "Global_Variables.Man_Mode", "type": "PLCTYPE_BOOL"},
+    {"name": "Global_Variables.PowerON", "type": "PLCTYPE_BOOL"},
+    {"name": "Global_Variables.CurrentFloorNo", "type": "PLCTYPE_INT"},
+    {"name": "Global_Variables.Elevator[1].START", "type": "PLCTYPE_BOOL"},
+    {"name": "Global_Variables.Elevator[1].GoToFloorNo", "type": "PLCTYPE_INT"}
+]
